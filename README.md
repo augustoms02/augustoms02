@@ -1,9 +1,7 @@
 ## Meu nome é Augusto Maldonado, Programador Front-End!
 
-<div align="center">
-  <a href="https://github.com/augustoms02/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=augustoms02&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Meu Github Status" /></a>  
-  <a href="https://github.com/augustoms02/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustoms02&layout=compact&theme=buefy&hide_border=true" /></a> 
-</div>
+| <a href="https://github.com/augustoms02/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=augustoms02&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/augustoms02/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustoms02&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
