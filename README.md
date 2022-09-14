@@ -1,4 +1,3 @@
-## 
 
 | <a href="https://github.com/augustoms02/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=augustoms02&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/augustoms02/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustoms02&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
